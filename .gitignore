@@ -1,0 +1,32 @@
+# Python
+_pycache_/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+*.key
+*.p12
+
+# Virtual machines
+*.iso
+*.qcow2
+*.img
+*.vdi
+*.vmdk
+*.ova
+
+# Terraform
+.terraform/
+*.tfstate
+.tfstate.
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
